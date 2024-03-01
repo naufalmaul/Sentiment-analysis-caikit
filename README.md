@@ -15,4 +15,4 @@
 
 ## Tech Stack
 - Phyton
-- Jupyter Notebook
+- Cloud IDE
